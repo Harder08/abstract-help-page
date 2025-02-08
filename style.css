@@ -68,6 +68,7 @@
    footer {
     grid-template-columns: 150px 150px;
     grid-template-rows: repeat(3, 200px);
+    height: auto !important;
    }
 }
 
